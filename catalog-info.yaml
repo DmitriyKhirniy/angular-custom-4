@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: angular-custom-4
+  description: Custom project angular
+  annotations:
+    github.com/project-slug: dump/dump
+    backstage.io/techdocs-ref: url:DmitriyKhirniy/angular-custom-4
+spec:
+  type: website
+  lifecycle: experimental
+  owner: "DmitriyKhirniy"
